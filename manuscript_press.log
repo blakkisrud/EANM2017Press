@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.3.14)  19 OCT 2017 13:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.3.14)  19 OCT 2017 14:08
 entering extended mode
 **./manuscript_press.tex
 (manuscript_press.tex
@@ -682,8 +682,7 @@ l.994 \ProcessOptionsKV[p]{Gm}
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-)
-No file manuscript_press.aux.
+) (manuscript_press.aux)
 \openout1 = `manuscript_press.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
@@ -732,6 +731,7 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 18.
 LaTeX Info: Redefining \pageref on input line 18.
 LaTeX Info: Redefining \nameref on input line 18.
+ (manuscript_press.out) (manuscript_press.out)
 \@outlinefile=\write4
 \openout4 = `manuscript_press.out'.
 
@@ -791,29 +791,22 @@ Missing character: There is no ® in font cmr10!
 [1
 
 {C:/Users/Johan/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 91.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 91.
-
-(manuscript_press.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 91.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 91.
-
-
-Package rerunfilecheck Warning: File `manuscript_press.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `manuscript_press.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 91.
+[3]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 100.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 100.
+ (manuscript_press.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 100.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 100.
+Package rerunfilecheck Info: File `manuscript_press.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 100.
  ) 
 Here is how much of TeX's memory you used:
- 18333 strings out of 493634
- 344260 string characters out of 3135239
- 445301 words of memory out of 3000000
+ 18348 strings out of 493634
+ 344456 string characters out of 3135239
+ 446394 words of memory out of 3000000
  21384 multiletter control sequences out of 15000+200000
- 11541 words of font info for 56 fonts, out of 3000000 for 9000
+ 11859 words of font info for 60 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
  62i,6n,67p,497b,335s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/Johan/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
@@ -822,9 +815,9 @@ blic/amsfonts/cm/cmr10.pfb><C:/Users/Johan/AppData/Local/Programs/MiKTeX 2.9/fo
 nts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Johan/AppData/Local/Programs/M
 iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Johan/AppData/Loca
 l/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on manuscript_press.pdf (2 pages, 78213 bytes).
+Output written on manuscript_press.pdf (3 pages, 79863 bytes).
 PDF statistics:
- 46 PDF objects out of 1000 (max. 8388607)
- 9 named destinations out of 1000 (max. 500000)
+ 50 PDF objects out of 1000 (max. 8388607)
+ 10 named destinations out of 1000 (max. 500000)
  10765 words of extra memory for PDF output out of 12000 (max. 10000000)
 
